@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactLoginProject/static/css/main.32277725.css",
+    "main.js": "/ReactLoginProject/static/js/main.47341bb4.js",
+    "index.html": "/ReactLoginProject/index.html",
+    "main.32277725.css.map": "/ReactLoginProject/static/css/main.32277725.css.map",
+    "main.47341bb4.js.map": "/ReactLoginProject/static/js/main.47341bb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32277725.css",
+    "static/js/main.47341bb4.js"
+  ]
+}
